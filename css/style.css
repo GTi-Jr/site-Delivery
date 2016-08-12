@@ -175,27 +175,27 @@ a.browse:hover {
 .index-about h1, .speciality h2, .events h3 {
 	text-align: left;
 	font-weight: 600;
-	color: #EF4C89;
+	color: #F06424;
 	margin-bottom: 30px;
 	font-size: 40px;
 }
 
 .index-about p {
 	line-height: 30px;
-	color: #777;
+	color: #003366;
 	margin-bottom: 50px;
 }
 
 .index-about a {
 	padding: 10px 30px;
-	background-color: #333;
+	background-color: #003366;
 	color: #FFF;
 	border-radius: 30px;
 	font-weight: 600;
 }
 
 .index-about a:hover {
-	background-color: #EF4C89;
+	background-color: #648AB0;
 }
 /*--w3layouts--*/
 /*--agileits--*/
@@ -206,7 +206,7 @@ a.browse:hover {
 /*-- Speciality --*/
 
 .speciality {
-	background-color: #323232;
+	background-color: #003366;
 	padding: 100px 75px;
 }
 
@@ -222,7 +222,7 @@ a.browse:hover {
 }
 
 .speciality h2 {
-	color: #EF4C89;
+	color: #F06424;
 }
 
 .speciality h4 {
@@ -256,7 +256,7 @@ a.browse:hover {
 }
 
 .speciality-info:hover {
-	background-color: #000;
+	background-color: #002449;
 }
 
 .grid figcaption {
@@ -269,7 +269,7 @@ a.browse:hover {
 }
 
 figcaption {
-	background-color: #EF4C89;
+	background-color: #F06424;
 }
 
 .grid figcaption h3 {
@@ -341,7 +341,7 @@ figcaption {
 
 .speciality-info h3 {
 	margin-top: 20px;
-	color: #EF4C89;
+	color: #F06424;
 }
 
 .grid1 {
@@ -479,8 +479,8 @@ p.date-3 {
 	font-size: 35px;
 	margin-bottom: 25px;
 	padding-left: 10px;
-	color: #EF4C89;
-	border-left: 5px solid #EF4C89;
+	color: #F06424;
+	border-left: 5px solid #F06424;
 }
 
 .how-heading {
@@ -563,7 +563,7 @@ p.date-3 {
 	font-size: 30px;
 	text-align: left;
 	margin-bottom: 20px;
-	color: #EF4C89;
+	color: #F06424;
 }
 
 .how-grids p {
@@ -883,14 +883,14 @@ p.stats-p {
 /*-- Footer --*/
 
 .footer {
-	background-color: #000;
+	background-color: #003366;
 	color: #FFF;
 	padding: 100px 200px 0;
 }
 
 .footer h3 {
 	font-weight: 600;
-	color: #EF4C89;
+	color: #F06424;
 	font-size: 35px;
 }
 
@@ -932,7 +932,7 @@ address {
 .footer span.glyphicon {
 	font-weight: bold;
 	margin-right: 5px;
-	color: #FF166D;
+	color: #F06424;
 }
 
 .email a {
@@ -978,12 +978,12 @@ address {
 	padding: 7px 10px;
 	border: none;
 	outline: none;
-	background-color: #333;
+	background-color: #002449;
 	margin-bottom: 10px;
 }
 
 .newsletter input[type="submit"] {
-	background-color: #ef4c89;
+	background-color: #F06424;
 	border: none;
 	outline: none;
 	padding: 6px 20px;
@@ -993,7 +993,7 @@ address {
 }
 
 .newsletter input[type="submit"]:hover {
-	background-color: #EF4C89;
+	background-color: #FFB266;
 }
 
 .footer-grids p {
@@ -2081,7 +2081,7 @@ h2.typoh2 {
 	padding: 50px 10px;
 	text-align: center;
 	border-top: 1px solid #CCC;
-	background-color: #000;
+	background-color: #003366;
 	color: #FFF;
 }
 
