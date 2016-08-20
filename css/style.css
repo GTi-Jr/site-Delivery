@@ -214,6 +214,7 @@ a.browse:hover {
 	margin: 0 auto;
 	list-style: none;
 	text-align: center;
+	float: right;
 }
 
 .speciality-grid {
@@ -336,7 +337,7 @@ figcaption {
 }
 
 .speciality-info img {
-	width: 50px;
+	width: 75px;
 }
 
 .speciality-info h3 {
@@ -4767,4 +4768,14 @@ h2.typoh2 {
 	background: linear-gradient(#fff 20%, transparent 20%, transparent 40%, #fff 40%, #fff 60%, transparent 60%, transparent 80%, #fff 80%);
 }
 
+
+@media (min-width: 992px) {
+	.speciality-grid {
+		width: 25%;
+	}
+}
+
+.img-restau {
+	height: 50%;
+}
 /*-- //Responsive-Styling --*/
