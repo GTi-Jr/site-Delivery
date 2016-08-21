@@ -1,0 +1,70 @@
+.navbar-header {
+  text-align: center;
+}
+
+.navbar-header a.navbar-brand {
+  padding: 1px;
+  max-width: 30%;
+  max-height: 100%;
+  float: none;
+  transform: translateX(-50%);
+  left: 50%;
+  /*position: absolute;*/
+}
+
+a.navbar-brand img {
+  max-height: 100%;
+  max-width: 30%;
+}
+
+.wedo-logo-container {
+  left: 0;
+  right: 0;
+}
+
+.wedo-logo {
+  width: 30%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.wedo-menu-button {
+  background-color: #f06424;
+}
+
+.wedo-banner {
+  height: 100%;
+}
+
+.wedo-banner-image {
+  max-height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -10;
+}
+
+.celular {
+  height: 350px;
+}
+
+.celular img {
+  height: 100%;
+  width: initial;
+}
+
+@media screen and (max-width: 767px) {
+  .celular-wrap {
+      max-height: 250px;
+  }
+}
+
+.botoes {
+  width: 100%;
+}
+
+.quadro img {
+  width: initial;
+}
+
