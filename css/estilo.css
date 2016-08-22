@@ -74,9 +74,35 @@ a.navbar-brand img {
 }
 
 .separador-1 {
-  height: 150px;
+  height: 160px;
   background-image: url("../images/backgroundimage.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+}
+
+.how-grid-image img {
+  border-radius: 100%;
+}
+
+.follow h3 {
+  border: 0;
+}
+
+.follow h4 {
+  color: white;
+}
+
+.gallery.clients {
+  background-image: url("../images/shop.jpg");
+}
+
+.gallery-grids {
+  width: 100%;
+  padding: 10px;
+}
+
+.gallery-grids h3 {
+  color: #F06424;
+  padding: 10px;
 }
