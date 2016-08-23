@@ -17,6 +17,12 @@ a.navbar-brand img {
   max-width: 30%;
 }
 
+@media screen and (min-width: 768px) {
+  ul.nav {
+    float: right;
+  }
+}
+
 .wedo-logo-container {
   left: 0;
   right: 0;
@@ -81,6 +87,15 @@ a.navbar-brand img {
   background-attachment: fixed;
 }
 
+
+.separador-2 {
+  height: 160px;
+  background-image: url("../images/backgroundimage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 .how-grid-image img {
   border-radius: 100%;
 }
@@ -105,4 +120,24 @@ a.navbar-brand img {
 .gallery-grids h3 {
   color: #F06424;
   padding: 10px;
+}
+
+.stats {
+  padding: 35px;
+}
+
+.stats-grids {
+  margin-top: 0;
+}
+
+.stats-grids span {
+  margin: 25px 0 25px 0;
+}
+
+.clients h3 {
+  color: #F06424;
+}
+
+.espaco {
+  height: 50px;
 }
